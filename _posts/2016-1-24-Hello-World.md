@@ -6,7 +6,7 @@ title: Hello World && Public Domain Images
 
 First post! It only took a few minutes to set up this Jekyll blog thanks to Barry Clark's repo (detailed article <a href="https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages">here</a>). My plan is to post on tech topics that I find interesting, and tips and tricks I stumble upon while learning!
 
-##Public Domain Digital Images from NYPL##
+#Public Domain Digital Images from NYPL#
 
 The <a href="https://www.nypl.org">New York Public Library</a> recently released 180,000+ hi-res images that are public domain, copyright-free so you can download and use them freely in personal and commerical projects. I had no idea that libraries were digitizing and providing so much reference material for the general public! There is a division called NYPL Labs that is making this data available in innovative ways - this <a href="http://publicdomain.nypl.org/pd-visualization/">data visualization</a> of all the 180k images is. so. good.
 
